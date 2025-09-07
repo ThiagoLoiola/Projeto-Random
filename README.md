@@ -6,3 +6,5 @@
 
 <p>A seguir tem uma imagem do aplicativo</p>
 
+<img src="./assets/Captura de tela 2025-09-07 181932.png">
+
