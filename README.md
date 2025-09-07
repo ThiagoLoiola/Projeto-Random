@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
-<p>A seguir tem uma imagem do aplicativo</p>
+<p>A seguir tem uma imagem do aplicativo : </p>
 
 <img src="./assets/Captura de tela 2025-09-07 181932.png">
 
